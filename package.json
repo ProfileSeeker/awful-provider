@@ -1,0 +1,21 @@
+{
+  "name": "awful-provider",
+  "version": "0.0.1",
+  "description": "A short description of this awful provider",
+  "keywords": [
+    "awful",
+    "provider"
+  ],
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "pro"
+      }
+    }
+  },
+  "repository": "https://github.com/atom/this-link-does-not-exist",
+  "license": "UNLICENSED",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
